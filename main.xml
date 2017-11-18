@@ -28,19 +28,3 @@
 </plugin></link>
 </dir>
 
-<dir>
-  <title>TV</title>
-  <link>file://tv.xml</link>
-</dir>
-
-<dir>
-  <title>Lists</title>
-  <link>file://lists.xml</link>
-</dir>
-
-<dir>
-  <title>Actors</title>
-  <link>file://actors.xml</link>
-</dir>
-
->
