@@ -1,12 +1,9 @@
 <dir>
-    <name>Movies</name>
-    <link>file://movies.xml</link>
-    <animated_thumbnail></animated_thumbnail>
-    <thumbnail>ferret1.jpg</thumbnail>
-    <animated_fanart></animated_fanart>
-    <fanart></fanart>
+  <title>Movies</title>
+  <link><dir>
+  <title>Movies</title>
+  <link>file://movies.xml</link>
 </dir>
-
 
 <dir>
   <title>TV</title>
