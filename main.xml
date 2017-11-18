@@ -1,6 +1,34 @@
 <dir>
-  <title>Movies</title>
-  <link>file://movies.xml</link>
+    <name>Movies</name>
+    <link>file://movies.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail>ferret1.jpg</thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+
+
+<dir>
+  <title>TV</title>
+  <link>file://tv.xml</link>
+</dir>
+
+<dir>
+  <title>Lists</title>
+  <link>file://lists.xml</link>
+</dir>
+
+<dir>
+  <title>Actors</title>
+  <link>file://actors.xml</link>
+</dir>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.jenplugin/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>Testings</summary>
+</plugin></link>
 </dir>
 
 <dir>
@@ -16,4 +44,6 @@
 <dir>
   <title>Actors</title>
   <link>file://actors.xml</link>
-</dir
+</dir>
+
+>
