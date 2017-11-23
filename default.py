@@ -21,7 +21,7 @@ import __builtin__
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "https://github.com/tilliferret/ferretworld/blob/master/main.xml"  # url of the root xml file
+root_xml_url = "https://raw.githubusercontent.com/tilliferret/ferretworld/master/main.xml"  # url of the root xml file
 __builtin__.tvdb_api_key = "51CBD67355C86CA5"  # tvdb api key
 __builtin__.tmdb_api_key = "2b6ce08da1504c68ad5d3d798bef1f99"  # tmdb api key
 __builtin__.trakt_client_id = "948c4e2514db4f2cca33e737f5e73ae213e537d344b9916983e53e3cc2a1b21c"  # trakt client id
