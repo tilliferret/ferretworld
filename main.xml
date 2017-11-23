@@ -18,11 +18,6 @@
   <link>file://actors.xml</link>
 </dir>
 
-<dir>
-  <title>Collection</title>
-  <link>file://collection.xml</link>
-</dir>
-
 <plugin>
 <name>Testings</name>
 <link>plugin://plugin.video.jenplugin/?action=developer</link>
