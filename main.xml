@@ -1,11 +1,11 @@
 <dir>
   <title>Movies</title>
-  <link>file://movies.xml</link>
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/movies.xml</link>
 </dir>
 
 <dir>
   <title>TV</title>
-  <link>file://tv.xml</link>
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/tv.xmll</link>
 </dir>
 
 <dir>
