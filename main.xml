@@ -23,11 +23,6 @@
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/our%20film%20collection.xml</link>
 </dir>
 
-<dir>
-  <title>Collection</title>
-  <link>file://collection.xml</link>
-</dir>
-
 <plugin>
 <name>30701</name>
 <link>plugin://plugin.video.ferretworld/?action=openSettings</link>
