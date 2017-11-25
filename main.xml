@@ -35,5 +35,9 @@
 <thumbnail></thumbnail>
 </plugin>
  
-
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.ferretworld/?action=developer</link>
+<thumbnail></thumbnail>
+</plugin>
 
