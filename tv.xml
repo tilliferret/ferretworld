@@ -33,8 +33,4 @@
   <tmdb>genre/shows/16</tmdb>
 </dir>
 
-<dir>
-  <title>My Fav Tv Shows</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/favourite-tv-shows/items</trakt>
-</dir>
 
