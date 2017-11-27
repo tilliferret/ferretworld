@@ -15,7 +15,7 @@
 
 <dir>
   <title>TV Collection</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/collection/items</trakt>
+  <trakt>https://api.trakt.tv/users/tilliferret/collection/list</trakt>
 </dir>
 
 <dir>
