@@ -34,7 +34,7 @@
 </dir>
 
 <dir>
-  <title>TMDB Animation Shows</title>
-  <tmdb>https://api.trakt.tv/users/tilliferret/lists/favourite-tv-shows</tmdb>
+  <title>My Fav Tv Shows</title>
+  <tmdb>https://api.trakt.tv/users/tilliferret/lists/favourite-tv-shows/list</tmdb>
 </dir>
 
