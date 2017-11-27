@@ -4,6 +4,12 @@
 </dir>
 
 <dir>
+ <title>3t3rnity Genre</title>
+ <link>file://Genre.xml</link>
+</dir>  
+
+
+<dir>
   <title>Popular Movies</title>
   <trakt>https://api.trakt.tv/movies/popular</trakt>
 </dir>
