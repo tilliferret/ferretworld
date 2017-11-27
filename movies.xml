@@ -4,8 +4,8 @@
 </dir>
 
 <dir>
- <title>3t3rnity Genre</title>
- <link>file://Genre.xml</link>
+ <title>Genre</title>
+ <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/genre.xml</link>
 </dir>  
 
 
