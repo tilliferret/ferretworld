@@ -9,8 +9,8 @@
 </dir>
 
 <dir>
-  <title>TV Watchlist</title>
-  <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+  <title>Tv Shows For the ladies</title>
+  <trakt>https://api.trakt.tv/users/droidboy16/lists/female-shows</trakt>
 </dir>
 
 <dir>
