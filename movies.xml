@@ -14,6 +14,10 @@
  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/genre.xml</link>
 </dir>  
 
+<dir>
+ <title>Horror Films</title>
+ <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/horror%20films.xml</link>
+</dir> 
 
 <dir>
   <title>Popular Movies</title>
