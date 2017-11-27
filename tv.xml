@@ -32,3 +32,9 @@
   <title>TMDB Animation Shows</title>
   <tmdb>genre/shows/16</tmdb>
 </dir>
+
+<dir>
+  <title>TMDB Animation Shows</title>
+  <tmdb>https://trakt.tv/users/tilliferret/lists/favourite-tv-shows</tmdb>
+</dir>
+
