@@ -40,6 +40,12 @@
 </dir>
 
 <dir>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
+</dir>
+
+
+<dir>
   <title>TMDB Action Movies</title>
   <tmdb>genre/movies/28</tmdb>
 </dir>
