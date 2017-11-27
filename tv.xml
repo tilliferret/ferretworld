@@ -14,8 +14,8 @@
 </dir>
 
 <dir>
-  <title>TV Collection</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/collection/list</trakt>
+ <title>Genre</title>
+ <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/genretv.xml</link>
 </dir>
 
 <dir>
