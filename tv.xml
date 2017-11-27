@@ -35,6 +35,6 @@
 
 <dir>
   <title>TMDB Animation Shows</title>
-  <tmdb>https://trakt.tv/users/tilliferret/lists/favourite-tv-shows</tmdb>
+  <tmdb>https://api.trakt.tv/users/tilliferret/lists/favourite-tv-shows</tmdb>
 </dir>
 
