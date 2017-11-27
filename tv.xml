@@ -35,6 +35,6 @@
 
 <dir>
   <title>My Fav Tv Shows</title>
-  <tmdb>https://api.trakt.tv/users/tilliferret/lists/favourite-tv-shows/list</tmdb>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/favourite-tv-shows/list</trakt>
 </dir>
 
