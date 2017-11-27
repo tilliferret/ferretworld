@@ -14,8 +14,8 @@
 </dir>
 
 <dir>
-  <title>Actors</title>
-  <link>file://actors.xml</link>
+  <title>My Fav Tv Shows</title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/favourite-tv-shows/items</trakt>
 </dir>
 
 <dir>
