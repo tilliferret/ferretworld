@@ -25,7 +25,7 @@
 
 <dir>
   <title>Damos Tv Shows</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/shows-for-damo/items</trakt>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/shows-for-damo/</trakt>
 </dir>
 
 <plugin>
