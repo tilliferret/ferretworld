@@ -55,21 +55,21 @@
   </dir>   
   
   <plugin>
-<name>Settings</name>
-<link>plugin://plugin.video.ferretworld/?action=openSettings</link>
-<thumbnail></thumbnail>
-</plugin>
- 
-<plugin>
-<name>Search</name>
-<link>plugin://plugin.video.ferretworld/?action=search</link>
-<thumbnail></thumbnail>
-</plugin>
- 
-<plugin>
-<name>Testings</name>
-<link>plugin://plugin.video.ferretworld/?action=developer</link>
-<thumbnail></thumbnail>
-</plugin>
-</xml>
+    <name>Settings</name>
+    <link>plugin://plugin.video.ferretworld/?action=openSettings</link>
+    <thumbnail></thumbnail>
+  </plugin>
+
+  <plugin>
+    <name>Search</name>
+    <link>plugin://plugin.video.ferretworld/?action=search</link>
+    <thumbnail></thumbnail>
+  </plugin>
+
+  <plugin>
+    <name>Testings</name>
+    <link>plugin://plugin.video.ferretworld/?action=developer</link>
+    <thumbnail></thumbnail>
+  </plugin>
+ </xml>
 
