@@ -5,6 +5,11 @@
 </dir>
 
 <dir>
+  <title>Kids Boxsets</title>
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/kids_boxset.xml</link>
+</dir>
+
+<dir>
   <title>Trending Movies</title>
   <trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
