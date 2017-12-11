@@ -19,6 +19,11 @@
 </dir>
 
 <dir>
+ <title>UK Sitcoms</title>
+ <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/UK%20Sitcom.xml</link>
+</dir>
+
+<dir>
 <title>Netflix Origionals</title>
 <tmdb>list/39548</tmdb>
 </dir>
