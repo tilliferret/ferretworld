@@ -1,3 +1,4 @@
+<xml>
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/movies.xml</link>
@@ -52,5 +53,5 @@
     <title>Production Companies</title>
     <link>file://shared lists/production.xml</link>
   </dir>   
-
+</xml>
 
