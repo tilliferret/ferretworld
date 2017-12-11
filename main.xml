@@ -21,7 +21,7 @@
    
   <dir>
     <title>Concerts</title>
-    <link>file://shared lists/concerts.xml</link>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/concerts.xml</link>
   </dir>
 
   <dir>
