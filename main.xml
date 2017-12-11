@@ -1,17 +1,16 @@
-<xml>
   <dir>
-    <title>Actors</title>
-    <link>shared lists/actors.xml</link>
+    <title>Movies</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/movies.xml</link>
   </dir>
 
   <dir>
-    <title>Actresses</title>
-    <link>file://shared lists/actress.xml</link>
+    <title>Tv Shows</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/tv.xml</link>
   </dir>
 
   <dir>
-    <title>Chicks</title>
-    <link>file://shared lists/chicks.xml</link>
+    <title>Films For Women</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/chicks.xml</link>
   </dir>
 
   <dir>
