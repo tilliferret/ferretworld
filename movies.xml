@@ -55,6 +55,11 @@
 </dir>
 
 <dir>
+  <title>Movie Collection</title>
+  <trakt>https://api.trakt.tv/users/andreofgyn/lists/2018-golden-globe-nominees/lists</trakt>
+</dir>
+
+<dir>
   <title>TMDB Popular</title>
   <tmdb>movies/popular</tmdb>
 </dir>
