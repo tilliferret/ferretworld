@@ -1,48 +1,56 @@
-<dir>
-  <title>Movies</title>
-  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/movies.xml</link>
-</dir>
+<xml>
+  <dir>
+    <title>Actors</title>
+    <link>shared lists/actors.xml</link>
+  </dir>
 
-<dir>
-  <title>TV</title>
-  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/tv.xml</link>
-</dir>
+  <dir>
+    <title>Actresses</title>
+    <link>file://shared lists/actress.xml</link>
+  </dir>
 
-<dir>
-  <title>Lists</title>
-  <link>file://lists.xml</link>
-</dir>
+  <dir>
+    <title>Chicks</title>
+    <link>file://shared lists/chicks.xml</link>
+  </dir>
 
-<dir>
-  <title>Our Fav Tv Shows</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/favourite-tv-shows/items</trakt>
-</dir>
+  <dir>
+    <title>Collections</title>
+    <link>file://shared lists/collections.xml</link>
+  </dir>
 
-<dir>
-  <title>Our Film Collection</title>
-  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/our%20film%20collection.xml</link>
-</dir>
+  <dir>
+    <title>Concerts</title>
+    <link>file://shared lists/concerts.xml</link>
+  </dir>
 
-<dir>
-  <title>Damos Tv Shows</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/shows-for-damo/items</trakt>
-</dir>
+  <dir>
+    <title>Movie Genres</title>
+    <link>file://shared lists/genre_movies.xml</link>
+  </dir>
 
-<plugin>
-<name>Settings</name>
-<link>plugin://plugin.video.ferretworld/?action=openSettings</link>
-<thumbnail></thumbnail>
-</plugin>
- 
-<plugin>
-<name>Search</name>
-<link>plugin://plugin.video.ferretworld/?action=search</link>
-<thumbnail></thumbnail>
-</plugin>
- 
-<plugin>
-<name>Testings</name>
-<link>plugin://plugin.video.ferretworld/?action=developer</link>
-<thumbnail></thumbnail>
-</plugin>
+  <dir>
+    <title>Tv Genres</title>
+    <link>file://shared lists/genres_tv.xml</link>
+  </dir>
 
+  <dir>
+    <title>Kids</title>
+    <link>file://shared lists/kids.xml</link>
+  </dir>
+
+  <dir>
+    <title>Kids Boxsets</title>
+    <link>file://shared lists/kids_boxset.xml</link>
+  </dir>
+
+  <dir>
+    <title>Networks</title>
+    <link>file://shared lists/networks.xml</link>
+  </dir>
+
+  <dir>
+    <title>Production Companies</title>
+    <link>file://shared lists/production.xml</link>
+  </dir>   
+</xml>
