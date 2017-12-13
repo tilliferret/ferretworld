@@ -32,7 +32,7 @@
 
 <dir>
   <title>Movie Years</title>
-  <trakt>https://raw.githubusercontent.com/tilliferret/ferretworld/master/Movie%20Years.xml</trakt>
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/movie-years.xml</link>
 </dir>
 
 <dir>
