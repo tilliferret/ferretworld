@@ -8,25 +8,10 @@
     <title>Tv Shows</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/tv.xml</link>
   </dir>
-
-  <dir>
-    <title>Films For Women</title>
-    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/chicks.xml</link>
-  </dir>
-
-  <dir>
-    <title>Collections</title>
-    <link>file://shared lists/collections.xml</link>
-  </dir>
-   
+  
   <dir>
     <title>Concerts</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/concerts.xml</link>
-  </dir>
-
-  <dir>
-    <title>Movie Genres</title>
-    <link>file://shared lists/genre_movies.xml</link>
   </dir>
 
   <dir>
@@ -40,20 +25,10 @@
   </dir>
 
   <dir>
-    <title>Kids Boxsets</title>
-    <link>file://shared lists/kids_boxset.xml</link>
-  </dir>
-
-  <dir>
     <title>Networks</title>
     <link>file://shared lists/networks.xml</link>
   </dir>
 
-  <dir>
-    <title>Production Companies</title>
-    <link>file://shared lists/production.xml</link>
-  </dir>   
-  
   <plugin>
     <name>Settings</name>
     <link>plugin://plugin.video.ferretworld/?action=openSettings</link>
