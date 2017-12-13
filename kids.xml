@@ -17,9 +17,8 @@
 </dir>
  
 <dir>
-<title>Studio Ghibli</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/studio-ghibli-movies/items</trakt>
-<thumbnail></thumbnail>
+  <title>Disney Films </title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/disney-films/items/</trakt>
 </dir>
  
 <dir>
