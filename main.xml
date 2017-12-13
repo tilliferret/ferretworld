@@ -20,8 +20,8 @@
   </dir>
 
   <dir>
-    <title>Networks</title>
-    <link>file://shared lists/networks.xml</link>
+    <title>Concerts</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/Documentaries.xml</link>
   </dir>
 
   <plugin>
