@@ -16,7 +16,7 @@
 
   <dir>
     <title>Kids</title>
-    <link>file://shared lists/kids.xml</link>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/kids.xml</link>
   </dir>
 
   <dir>
