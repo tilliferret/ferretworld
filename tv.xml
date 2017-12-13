@@ -10,7 +10,7 @@
 
 <dir>
     <title>History Channel</title>
-    <link>https://api.trakt.tv/users/tilliferret/lists/history-channel/items/</link>
+    <trakt>https://api.trakt.tv/users/tilliferret/lists/history-channel/items/</trakt>
  </dir>
 
 <dir>
