@@ -1,5 +1,10 @@
 
 <dir>
+  <title>actors films</title>
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/actors-films.xml</link>
+</dir>
+
+<dir>
   <title>Boxsets</title>
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/boxsets.xml</link>
 </dir>
