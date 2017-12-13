@@ -1,8 +1,14 @@
 
 <dir>
-  <title>actors films</title>
+  <title>Actors films</title>
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/actors-films.xml</link>
 </dir>
+
+<dir>
+  <title>Actress films</title>
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/actress-films.xml</link>
+</dir>
+
 
 <dir>
   <title>Boxsets</title>
@@ -22,16 +28,6 @@
 <dir>
     <title>Collections</title>
     <link>file://shared lists/collections.xml</link>
-</dir>
-
-<dir>
-  <title>Actors</title>
-  <trakt>https://raw.githubusercontent.com/tilliferret/ferretworld/master/actors.xml</trakt>
-</dir>
-
-<dir>
-  <title>Actress</title>
-  <trakt>https://raw.githubusercontent.com/tilliferret/ferretworld/master/actress.xml</trakt>
 </dir>
 
 <dir>
