@@ -15,11 +15,6 @@
   </dir>
 
   <dir>
-    <title>Tv Genres</title>
-    <link>file://shared lists/genres_tv.xml</link>
-  </dir>
-
-  <dir>
     <title>Kids</title>
     <link>file://shared lists/kids.xml</link>
   </dir>
