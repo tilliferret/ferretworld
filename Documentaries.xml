@@ -1,38 +1,14 @@
 
- <dir>
-  <title>History Channel</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/history-channel/items/</trakt>
- </dir>
- 
+  
  <dir>
   <title>BBC Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/bbc-documentaries/items/</trakt>
  </dir>
  
  <dir>
-  <title>Dicovery Documentaries</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/discovery-channel/items/</trakt>
- </dir>
- 
- <dir>
-  <title>ITV Documentaries</title>
+  <title>ITV</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/itv-documentaries/items/</trakt>
- </dir>
- 
- <dir>
-  <title>National Geo Documentaries</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/national-geo-documentaries/items/</trakt>
- </dir>
- 
- <dir>
-  <title>Investigation Channel Documentaries</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/investigation-docs/items/</trakt>
- </dir>
- 
- <dir>
-  <title>HBO Documentaries</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/hbo-documentaries/items/</trakt>
- </dir>
+ </dir> 
  
  <dir>
   <title>Channel 4 Documentaries</title>
@@ -45,12 +21,32 @@
  </dir>
  
  <dir>
-  <title>50 documentaries to see before you die</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/50-documentaries-to-see/items/</trakt>
+  <title>Dicovery</title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/discovery-channel/items/</trakt>
+ </dir> 
+ 
+ <dir>
+  <title>HBO Documentaries</title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/hbo-documentaries/items/</trakt>
  </dir>
  
  <dir>
-  <title>Planet Earth Documentaries</title>
+  <title>History Channel</title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/history-channel/items/</trakt>
+ </dir>
+  
+ <dir>
+  <title>Investigation Channel</title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/investigation-docs/items/</trakt>
+ </dir>
+  
+ <dir>
+  <title>National Geo</title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/national-geo-documentaries/items/</trakt>
+ </dir>
+ 
+ <dir>
+  <title>Planet Earth</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/planet-earth/items/</trakt>
  </dir>
  
@@ -58,5 +54,14 @@
   <title>sky Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/sky-documentaries/items/</trakt>
  </dir>
+ 
+ <dir>
+  <title>50 documentaries to see before you die</title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/50-documentaries-to-see/items/</trakt>
+ </dir>
+ 
+ 
+ 
+ 
  
  
