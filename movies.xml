@@ -10,6 +10,16 @@
 </dir>
 
 <dir>
+    <title>Films For Women</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/chicks.xml</link>
+</dir>
+
+<dir>
+    <title>Collections</title>
+    <link>file://shared lists/collections.xml</link>
+</dir>
+
+<dir>
   <title>Actors</title>
   <trakt>https://raw.githubusercontent.com/tilliferret/ferretworld/master/actors.xml</trakt>
 </dir>
@@ -28,6 +38,11 @@
  <title>Genre</title>
  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/genre.xml</link>
 </dir>  
+
+<dir>
+    <title>Production Companies</title>
+    <link>file://shared lists/production.xml</link>
+</dir
 
 <dir>
  <title>Horror Films</title>
