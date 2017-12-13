@@ -1,31 +1,31 @@
 
  <dir>
-		<title>History Channel</title>
-		<trakt>https://api.trakt.tv/users/tilliferret/lists/history-channel/items/</trakt>
+  <title>History Channel</title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/history-channel/items/</trakt>
  </dir>
  
  <dir>
-  <title>damo bbc</title>
+  <title>BBC Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/bbc-documentaries/items/</trakt>
  </dir>
  
  <dir>
-  <title>Dicovery</title>
+  <title>Dicovery Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/discovery-channel/items/</trakt>
  </dir>
  
  <dir>
-  <title>ITV</title>
+  <title>ITV Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/itv-documentaries/items/</trakt>
  </dir>
  
  <dir>
-  <title>National Geo</title>
+  <title>National Geo Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/national-geo-documentaries/items/</trakt>
  </dir>
  
  <dir>
-  <title>Investigation Channel</title>
+  <title>Investigation Channel Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/investigation-docs/items/</trakt>
  </dir>
  
@@ -50,7 +50,7 @@
  </dir>
  
  <dir>
-  <title>Planet Earth</title>
+  <title>Planet Earth Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/planet-earth/items/</trakt>
  </dir>
  
