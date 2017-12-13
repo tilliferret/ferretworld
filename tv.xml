@@ -9,6 +9,11 @@
 </dir>
 
 <dir>
+    <title>History Channel</title>
+    <link>https://api.trakt.tv/users/tilliferret/lists/history-channel/items/</link>
+ </dir>
+
+<dir>
   <title>Trending Shows</title>
   <trakt>https://api.trakt.tv/shows/trending</trakt>
 </dir>
