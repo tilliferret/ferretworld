@@ -86,54 +86,8 @@
 </dir>
 
 <dir>
-  <title>TMDB List: Animal Kingdom</title>
-  <tmdb>list/13488</tmdb>
-</dir>
-
-<dir>
   <title>Sci Fi Films</title>
   <tmdb>list/3945</tmdb>
 </dir>
 
   
-<dir>
-  <title>TMDB Popular</title>
-  <tmdb>movies/popular</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Now Playing</title>
-  <tmdb>movies/now_playing</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Top Rated</title>
-  <tmdb>movies/top_rated</tmdb>
-</dir>
-
-<dir>
-  <title>Search TMDB</title>
-  <tmdb>search</tmdb>
-</dir>
-
-
-<dir>
-  <title>TMDB Action Movies</title>
-  <tmdb>genre/movies/28</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Star Wars Collection</title>
-  <tmdb>collection/10</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Star Trek Collection</title>
-  <tmdb>collection/151</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Star Trek New Gen Collection</title>
-  <tmdb>collection/115570</tmdb>
-</dir>
-
