@@ -27,7 +27,7 @@
 
 <dir>
     <title>Collections</title>
-    <link>file://shared lists/collections.xml</link>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/production.xml</link>
 </dir>
 
 <dir>
