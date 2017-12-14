@@ -1,6 +1,6 @@
 <dir>
-  <title>TMDB List: Animal Kingdom</title>
-  <tmdb>list/13488</tmdb>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
 </dir>
 
 <dir>
@@ -19,19 +19,13 @@
 </dir>
 
 <dir>
-  <title>Search TMDB</title>
-  <tmdb>search</tmdb>
-</dir>
-
-
-<dir>
   <title>TMDB Action Movies</title>
   <tmdb>genre/movies/28</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Star Wars Collection</title>
-  <tmdb>collection/10</tmdb>
+  <title>TMDB List: Animal Kingdom</title>
+  <tmdb>list/13488</tmdb>
 </dir>
 
 <dir>
@@ -43,3 +37,10 @@
   <title>TMDB Star Trek New Gen Collection</title>
   <tmdb>collection/115570</tmdb>
 </dir>
+
+<dir>
+  <title>TMDB Star Wars Collection</title>
+  <tmdb>collection/10</tmdb>
+</dir>
+
+
