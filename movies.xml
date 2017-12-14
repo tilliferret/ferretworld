@@ -41,8 +41,8 @@
 </dir>  
 
 <dir>
-    <title>Production Companies</title>
-    <link>file://shared lists/production.xml</link>
+    <title>Tmdb List</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/tmdb_list.xml</link>
 </dir
 
 <dir>
