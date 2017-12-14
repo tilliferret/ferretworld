@@ -370,10 +370,17 @@
 </dir>
 
 <dir>
-<title>Homeward Bound Collection</title>
-<tmdb>collection/43058</tmdb>
+<title>How To Train Your Dragon Collection</title>
+<tmdb>collection/89137</tmdb>
 <thumbnail>https://image.tmdb.org/t/p/w1280/4S9WMNUJFzxKOjcoS1mGrKFfygI.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xBodl3B2IvBHQYMjn0WwtrYuxLl.jpg</fanart>
+</dir>
+
+<dir>
+  <title>Homeward Bound Collection</title>
+  <tmdb>collection/43058</tmdb>
+  <thumbnail>https://image.tmdb.org/t/p/w1280/4S9WMNUJFzxKOjcoS1mGrKFfygI.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/xBodl3B2IvBHQYMjn0WwtrYuxLl.jpg</fanart>
 </dir>
 
 <dir>
@@ -423,6 +430,13 @@
 <tmdb>collection/17178</tmdb>
 <thumbnail>https://image.tmdb.org/t/p/w1280/leaYqf3HLs97mHYjiHPYNaUVgIf.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original/q7A6qCqmy6daaqGRm3Ee3NUC3xN.jpg</fanart>
+</dir>
+
+<dir>
+  <title>James Bond Collection</title>
+  <tmdb>collection/645</tmdb>
+  <thumbnail>https://image.tmdb.org/t/p/w1280/leaYqf3HLs97mHYjiHPYNaUVgIf.jpg</thumbnail>
+  <fanart>http://image.tmdb.org/t/p/original/q7A6qCqmy6daaqGRm3Ee3NUC3xN.jpg</fanart>
 </dir>
 
 <dir>
@@ -825,7 +839,7 @@
 </dir>
 
 <dir>
-<title>eenage Mutant Ninja Turtles (Remake) Collection</title>
+<title>Teenage Mutant Ninja Turtles (Remake) Collection</title>
 <tmdb>collection/401562</tmdb>
 <thumbnail>https://image.tmdb.org/t/p/w1280/ezGOdWbZDYwuxXeuMPZQbPZRyay.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original/PxZWmNlfpuU8A26ZrYzpLaOX9S.jpg</fanart>
@@ -1079,7 +1093,6 @@
 <dir>
 <title>Weekend at Bernie's Collection</title>
 <tmdb>collection/118221</tmdb>
-
 <thumbnail>https://image.tmdb.org/t/p/w1280/77AHVx6dt5Bqajak83Cj0MYIaIK.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original/F35zibr76rjbu40cIBSTELo4n2.jpg</fanart>
 </dir>
@@ -1108,7 +1121,6 @@
 <dir>
 <title>Zorro Collection</title>
 <tmdb>collection/1657</tmdb>
-
 <thumbnail>https://image.tmdb.org/t/p/w1280/ziQDmVR3VE0hC0GDWgaQwz0H3Ff.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original/iBap046T59zu90UeTwyD8pToUV9.jpg</fanart>
 </dir>
