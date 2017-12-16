@@ -9,6 +9,16 @@
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/tv.xml</link>
   </dir>
   
+  <dir>    
+    <title>Our Film Collection</title>    
+    <link> https://raw.githubusercontent.com/tilliferret/ferretworld/master/our%20film%20collection.xml</link>  
+  </dir>
+ 
+  <dir>        
+    <title>Our Film Collection</title>       
+    <trakt>https://api.trakt.tv/users/tilliferret/lists/favourite-tv-shows/items/</trakt>    
+  </dir>
+  
   <dir>
     <title>Concerts</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/concerts.xml</link>
