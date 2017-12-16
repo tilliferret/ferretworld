@@ -1,3 +1,26 @@
+
+<dir> 
+      <title>Action TV Shows</title>  
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/action-tv/items/</trakt>
+</dir>
+
+<dir>       
+      <title>Drama TV Shows</title>        
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/drama-tv/items/</trakt>
+</dir>
+
+<dir>             
+      <title>Documentary TV Shows</title>              
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/documentary-tv/items/</trakt>
+</dir>
+
+<dir>                   
+      <title>Cartoon TV Shows</title>                    
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/comedy-and-cartoon-tv/items/</trakt>
+</dir>
+
+
+
 <dir>
       <title>TV Collection</title>
       <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
