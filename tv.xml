@@ -94,22 +94,3 @@
 <tmdb>list/39548</tmdb>
 </dir>
 
-<dir>
-  <title>TMDB Popular</title>
-  <tmdb>tv/popular</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Top Rated</title>
-  <tmdb>tv/top_rated</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Animation Shows</title>
-  <tmdb>genre/shows/16</tmdb>
-</dir>
-
-<dir>
-  <title>Marvel Shows</title>
-  <trakt>https://api.trakt.tv/users/urbankingz/lists/marvel-tv-shows/items</trakt>
-</dir>
