@@ -1,4 +1,6 @@
 
+
+
 <dir>
   <title>Actors films</title>
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/actors-films.xml</link>
@@ -21,13 +23,28 @@
 </dir>
 
 <dir>
-    <title>Films For Women</title>
-    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/chicks.xml</link>
-</dir>
-
-<dir>
     <title>Collections</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/production.xml</link>
+</dir>
+
+<dir>      
+  <title>Films For Women</title>      
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/chicks.xml</link>
+</dir>
+
+<dir> 
+  <title>Genre</title> 
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/genre.xml</link>
+</dir>  
+
+<dir> 
+  <title>Horror Films</title> 
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/horror%20films.xml</link>
+</dir>
+
+<dir>   
+  <title>Lego Movies</title>   
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/lego-movies/items/</trakt>
 </dir>
 
 <dir>
@@ -36,19 +53,9 @@
 </dir>
 
 <dir>
- <title>Genre</title>
- <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/genre.xml</link>
-</dir>  
-
-<dir>
     <title>Tmdb List</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/tmdb_list.xml</link>
 </dir
-
-<dir>
- <title>Horror Films</title>
- <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/horror%20films.xml</link>
-</dir> 
 
 <dir>
   <title>Trending Movies</title>
@@ -71,18 +78,8 @@
 </dir>
 
 <dir>
-  <title>2018 Oscars</title>
-  <trakt>https://api.trakt.tv/users/jcbwoldseth/lists/oscar-race-2018/items/</trakt>
-</dir
-
-  <dir>
   <title>Reddit Top 250 (2017 Edition)</title>
   <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
-</dir>
-
-<dir>
-  <title>Rotten Tomatoes: Best of 2017</title>
-  <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
 </dir>
 
 <dir>
