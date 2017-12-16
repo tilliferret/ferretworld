@@ -4,6 +4,26 @@
       <trakt>https://api.trakt.tv/users/coldkeys/lists/action-tv/items/</trakt>
 </dir>
 
+<dir>                         
+      <title>Car TV Shows</title>                          
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/car-shows/items/</trakt>
+</dir>
+
+<dir>                   
+      <title>Classic British Comedy TV Shows</title>                    
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/classic-british-comedy/items/</trakt>
+</dir>
+
+<dir>                         
+      <title>Classic American Comedy TV Shows</title>                          
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/classic-american-comedy/items/</trakt>
+</dir>
+
+<dir>                               
+      <title>Comedy and Cartoon TV Shows</title>                                
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/comedy-and-cartoon-tv/items/</trakt>
+</dir>
+
 <dir>       
       <title>Drama TV Shows</title>        
       <trakt>https://api.trakt.tv/users/coldkeys/lists/drama-tv/items/</trakt>
@@ -14,12 +34,18 @@
       <trakt>https://api.trakt.tv/users/coldkeys/lists/documentary-tv/items/</trakt>
 </dir>
 
-<dir>                   
-      <title>Cartoon TV Shows</title>                    
-      <trakt>https://api.trakt.tv/users/coldkeys/lists/comedy-and-cartoon-tv/items/</trakt>
+
+
+
+
+
+
+
+
+<dir>             
+      <title>Drama TV Shows</title>              
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/drama-tv/items/</trakt>
 </dir>
-
-
 
 <dir>
       <title>TV Collection</title>
