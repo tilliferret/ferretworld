@@ -50,6 +50,11 @@
   <trakt>https://api.trakt.tv/users/tilliferret/lists/planet-earth/items/</trakt>
  </dir>
  
+<dir>  
+  <title>Smithsonian Channel</title>  
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/smithsonian-channel/items/</trakt> 
+</dir>
+
  <dir>
   <title>sky Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/sky-documentaries/items/</trakt>
