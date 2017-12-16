@@ -27,6 +27,16 @@
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/chicks.xml</link>
 </dir>
 
+<dir>      
+  <title>British Comedy Collection</title>
+  <trakt>https://api.trakt.tv/users/sohinge/lists/british-comedy-movies/items/</trakt>
+</dir>
+
+<dir>    
+  <title>Carry On Collection</title>    
+  <trakt>https://api.trakt.tv/users/johno-trakt/lists/movies-carry-on-series/items/</trakt>
+</dir>
+
 <dir>
     <title>Collections</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/production.xml</link>
