@@ -85,13 +85,46 @@
   <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-biography/items</trakt> 
 </dir>
 
+<dir>               
+ <title>Car Shows Documentaries</title>               
+ <trakt>https://api.trakt.tv/users/documentaryrepo/lists/fg-car-shows/items/</trakt> 
+</dir>
+
+<dir>              
+ <title>Cold War Documentaries</title>              
+ <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-cold-war/items/</trakt> 
+</dir>
+
 <dir>            
   <title>Computer Documentaries</title>            
   <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-computers/items/</trakt> 
 </dir>
 
-<dir>            <title>Aliens Documentaries</title>            <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-aliens/items/</trakt> </dir>
+<dir>            
+  <title>Conspiracy Documentaries</title>            
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-conspiracy/items/</trakt> 
+</dir>
 
+<dir>
+ <title>Crime Documentaries</title>                 
+ <trakt>https://api.trakt.tv/users/documentaryrepo/lists/crime-tv/items/</trakt> 
+</dir>
+
+<dir>                
+ <title>Drugs Documentaries</title>                
+ <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-drugs/items/</trakt> 
+</dir>
+
+
+<dir>              
+ <title>Making Of Documentaries</title>              
+ <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-making-of/items/</trakt> 
+</dir>
+
+<dir>               
+ <title>Politics Documentaries</title>               
+ <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-politics/items/</trakt> 
+</dir>
 
 <dir>      
   <title>Terrorism Documentaries</title>      
@@ -112,9 +145,5 @@
   <title>50 documentaries to see before you die</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/50-documentaries-to-see/items/</trakt>
  </dir>
- 
- 
- 
- 
  
  
