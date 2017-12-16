@@ -1,5 +1,5 @@
 
-  
+
  <dir>
   <title>BBC Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/bbc-documentaries/items/</trakt>
@@ -56,10 +56,58 @@
 </dir>
 
  <dir>
+  <title>National Geo</title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/national-geo-documentaries/items/</trakt>
+ </dir>
+ 
+ <dir>
+  <title>Planet Earth</title>
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/planet-earth/items/</trakt>
+ </dir>
+ 
+<dir>  
+  <title>Smithsonian Channel</title>  
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/smithsonian-channel/items/</trakt> 
+</dir>
+
+ <dir>
   <title>sky Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/sky-documentaries/items/</trakt>
  </dir>
- 
+
+<dir>          
+  <title>Aliens Documentaries</title>          
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-aliens/items/</trakt> 
+</dir>
+
+<dir>    
+  <title>Biography Documentaries</title>    
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-biography/items</trakt> 
+</dir>
+
+<dir>            
+  <title>Computer Documentaries</title>            
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-computers/items/</trakt> 
+</dir>
+
+<dir>            <title>Aliens Documentaries</title>            <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-aliens/items/</trakt> </dir>
+
+
+<dir>      
+  <title>Terrorism Documentaries</title>      
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-terrorism/items/</trakt> 
+</dir>
+
+<dir>    
+  <title>War Documentaries</title>    
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-war/items/</trakt> 
+</dir>
+
+<dir>  
+  <title>Wildlife Documentaries</title>  
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-wildlife/items/</trakt> 
+</dir>
+
  <dir>
   <title>50 documentaries to see before you die</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/50-documentaries-to-see/items/</trakt>
