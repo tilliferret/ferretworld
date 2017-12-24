@@ -64,4 +64,12 @@
   <tmdb>list/3945</tmdb>
 </dir>
 
-  
+  <dir>
+  <title>TMDB Star Wars Collection</title>
+  <tmdb>collection/10</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Star Trek Collection</title>
+  <tmdb>collection/151</tmdb>
+</dir>
