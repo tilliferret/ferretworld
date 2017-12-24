@@ -65,11 +65,16 @@
 </dir>
 
   <dir>
-  <title>TMDB Star Wars Collection</title>
+  <title>Star Wars Collection</title>
   <tmdb>collection/10</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Star Trek Collection</title>
+  <title>Star Trek Collection Origional</title>
   <tmdb>collection/151</tmdb>
+</dir>
+
+<dir>
+  <title>Star Trek Collection Next Generation</title>
+  <tmdb>collection/115570</tmdb>
 </dir>
