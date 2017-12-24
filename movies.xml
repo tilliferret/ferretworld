@@ -1,6 +1,4 @@
 
-
-
 <dir>
   <title>Actors films</title>
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/actors-films.xml</link>
@@ -11,15 +9,9 @@
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/actress-films.xml</link>
 </dir>
 
-
 <dir>
   <title>Boxsets</title>
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/boxsets.xml</link>
-</dir>
-
-<dir>  
-  <title>Films For Women</title>  
-  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/chicks.xml</link>
 </dir>
 
 <dir>      
@@ -33,7 +25,7 @@
 </dir>
 
 <dir>
-    <title>Collections</title>
+    <title>Film Studio Collections</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/production.xml</link>
 </dir>
 
