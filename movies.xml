@@ -44,6 +44,11 @@
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/horror%20films.xml</link>
 </dir>
 
+<dir>
+  <title>Indiana Jones Collection</title>
+  <tmdb>collection/84</tmdb>
+</dir>
+
 <dir>   
   <title>Lego Movies</title>   
   <trakt>https://api.trakt.tv/users/tilliferret/lists/lego-movies/items/</trakt>
