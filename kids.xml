@@ -1,4 +1,9 @@
 <dir>
+  <title>Kids Boxsets</title>
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/kids_boxset.xml</link>
+</dir>
+
+<dir>
 <title>Kids Animated</title>
 <trakt>https://api.trakt.tv/users/shanstark71/lists/animation-movies/items</trakt>
 <thumbnail></thumbnail>
