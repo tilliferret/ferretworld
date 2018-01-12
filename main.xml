@@ -20,6 +20,12 @@
   </dir>
   
   <dir>
+    <title>Music</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/music.xml</link>
+  </dir>
+
+  
+  <dir>
     <title>Concerts</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/concerts.xml</link>
   </dir>
