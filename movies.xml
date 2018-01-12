@@ -60,11 +60,6 @@
 </dir>
 
 <dir>
-    <title>Tmdb List</title>
-    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/tmdb_list.xml</link>
-</dir
-
-  <dir>
   <title>Screeners</title>
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/screeners.xml</link>
 </dir>
