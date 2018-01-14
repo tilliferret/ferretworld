@@ -10,6 +10,11 @@
 </dir>
 
 <dir>
+  <title>Black And White Movies</title>
+  <tmdb>list/43791</tmdb>
+</dir>
+
+<dir>
   <title>Boxsets</title>
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/boxsets.xml</link>
 </dir>
@@ -32,6 +37,11 @@
 <dir>      
   <title>Films For Women</title>      
   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/chicks.xml</link>
+</dir>
+
+<dir>
+  <title>Gangster Movies</title>
+  <tmdb>list/44488</tmdb>
 </dir>
 
 <dir> 
@@ -83,3 +93,9 @@
   <title>Star Trek Collection Next Generation</title>
   <tmdb>collection/115570</tmdb>
 </dir>
+
+<dir>
+  <title>Music Movies</title>
+  <tmdb>list/45122</tmdb>
+</dir>
+
