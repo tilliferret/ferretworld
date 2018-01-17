@@ -258,5 +258,12 @@
       <trakt>https://api.https://trakt.tv/people/emilia-clarke/movies</trakt>
 </dir>
 
-<dir>      <title>[B][COLORwhite]Sally Field[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Sally-Field/movies</trakt></dir>
-<dir>      <title>[B][COLORwhite]Gwyneth Paltrow[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Gwyneth-Paltrow/movies</trakt></dir>
+<dir>      
+      <title>[B][COLORwhite]Julia Stiles[/COLOR][/B]</title>
+      <trakt>https://api.trakt.tv/people/julia-stiles/movies</trakt>
+</dir>
+
+<dir>    
+      <title>[B][COLORwhite]Ellen Page[/COLOR][/B]</title>
+      <trakt>https://api.trakt.tv/people/ellen-page/movies</trakt>
+</dir>
