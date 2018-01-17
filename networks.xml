@@ -36,6 +36,40 @@
   <fantart></fantart>
 </dir>
 
+<dir>  
+  <title>BBC One</title>
+  <tmdb>network/shows/4</tmdb>  
+  <thumbnail></thumbnail>  
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>BBC Two</title>  
+  <tmdb>network/shows/332</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>  
+  <title>ITV</title>
+  <tmdb>network/shows/140</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Channel 4</title>
+  <tmdb>network/shows/26</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Channel 5</title>
+  <tmdb>network/shows/99</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
 
 <dir>
   <title>Bravo</title>
@@ -256,6 +290,13 @@
 <dir>
   <title>PBS</title>
   <tmdb>network/shows/14</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Showcase</title>  
+  <tmdb>network/shows/105</tmdb>  
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
