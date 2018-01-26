@@ -2,60 +2,68 @@
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/movies.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/movies.png</thumbnail>
   </dir>
 
   <dir>
     <title>Tv Shows</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/tv.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/tvshows.png</thumbnail>
   </dir>
   
   <dir>    
     <title>Our Film Collection</title>    
     <link> https://raw.githubusercontent.com/tilliferret/ferretworld/master/our%20film%20collection.xml</link>  
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/ourfilms.png</thumbnail>
   </dir>
  
   <dir>        
     <title>Our TV Show Collection</title>       
     <trakt>https://api.trakt.tv/users/tilliferret/lists/favourite-tv-shows/items/</trakt>    
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/ourtv.png</thumbnail>
   </dir>
   
   <dir>
     <title>Music</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/music.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/music.png</thumbnail>
   </dir>
 
   
   <dir>
     <title>Concerts</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/concerts.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/concert.png</thumbnail>
   </dir>
 
   <dir>
     <title>Kids</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/kids.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/kids.png</thumbnail>
   </dir>
 
   <dir>
     <title>Documentaries</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/Documentaries.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/docs.png</thumbnail>
   </dir>
 
   <plugin>
     <name>Settings</name>
     <link>plugin://plugin.video.ferretworld/?action=openSettings</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/settings.png</thumbnail>
   </plugin>
 
   <plugin>
     <name>Search</name>
     <link>plugin://plugin.video.ferretworld/?action=search</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/search.png</thumbnail>
   </plugin>
 
   <plugin>
     <name>Testings</name>
     <link>plugin://plugin.video.ferretworld/?action=developer</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/testings.png</thumbnail>
   </plugin>
  </xml>
 
