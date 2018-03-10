@@ -45,6 +45,11 @@
 </dir>
 
 <dir>                   
+      <title>Kitchen Nightmares</title>                    
+      <trakt>https://api.trakt.tv/users/tilliferret/lists/kitchen-nightmares/items/</trakt>
+</dir>
+
+<dir>                   
       <title>Reality TV Shows</title>                    
       <trakt>https://api.trakt.tv/users/coldkeys/lists/reality-tv/items/</trakt>
 </dir>
