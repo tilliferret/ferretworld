@@ -87,7 +87,7 @@
 
 <dir>
       <title>Damo Shows</title>
-      <trakt>https://api.trakt.tv/users/tilliferret/lists/shows-for-damo/items/</trakt>
+      <trakt>https://api.trakt.tv/users/me/lists/</trakt>
 </dir>
 
 <dir>
