@@ -1,3 +1,24 @@
+<dir>
+  <title>Trending Shows</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+<dir>
+  <title>Popular Shows</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+</dir>
+
+<dir>
+  <title>TV Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+</dir>
+
+<dir>
+  <title>TV Collection</title>
+  <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+</dir>
+
+
 
 <dir> 
       <title>Action TV Shows</title>  
