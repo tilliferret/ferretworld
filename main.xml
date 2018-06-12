@@ -1,4 +1,3 @@
-<xml>
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/movies.xml</link>
@@ -65,5 +64,3 @@
     <link>plugin://plugin.video.ferretworld/?action=developer</link>
     <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/testings.png</thumbnail>
   </plugin>
- </xml>
-
