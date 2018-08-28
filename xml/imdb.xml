@@ -1,0 +1,60 @@
+    <dir>
+        <title>Search</title>
+        <imdburl>searchseries</imdburl>
+        <thumbnail></thumbnail>
+    </dir>
+
+    
+    <dir>
+        <title>Newest</title>
+        <imdburl>tvshows/new</imdburl>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>Best Ratings</title>
+        <imdburl>tvshows/rating</imdburl>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>Most Viewed</title>
+        <imdburl>tvshows/mostviews</imdburl>
+        <thumbnail></thumbnail>
+    </dir>
+
+
+    <dir>
+        <title>Chart Best Rated</title>
+        <imdburl>charttv/toptv</imdburl>
+    </dir>
+   
+    <dir>
+        <title>IMDB Action TV Shows</title>
+        <imdburl>genres/action</imdburl>
+        <thumbnail></thumbnail>
+    </dir>
+
+   
+    <dir>
+        <title>IMDB Trending</title>
+        <imdburl>movies/trending</imdburl>
+    </dir>
+
+    <dir>
+    <title>2016</title>
+        <imdburl>years/2016</imdburl>
+        <thumbnail></thumbnail>
+    </dir>
+
+
+    <dir>
+        <title>IMDB TOP 100 Gangster List</title>
+        <imdburl>list/ls001818278</imdburl>
+    </dir>
+
+
+    <dir>
+        <title>IMDB Upcoming Releases in the US</title>
+        <imdburl>moviecalendar/US</imdburl>
+    </dir>
