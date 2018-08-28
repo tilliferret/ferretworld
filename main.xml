@@ -28,7 +28,12 @@
     <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/music.png</thumbnail>
   </dir>
 
-  
+  <dir>
+    <title>IMDB</title>
+    <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/xml/imdb.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/tilliferret/ferretworld/master/thumb/music.png</thumbnail>
+  </dir>  
+
   <dir>
     <title>Concerts</title>
     <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/concerts.xml</link>
