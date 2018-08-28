@@ -13,6 +13,10 @@
   <tmdb>movies/top_rated</tmdb>
 </dir>
 
+<dir>
+  <title>24/7 Movies</title>
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/xml/movies247.xml</link>
+</dir>
 
 <dir>
   <title>Actors films</title>
